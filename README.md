@@ -1,6 +1,23 @@
-# Kagi for Alfred
 
-A powerful Alfred workflow to interact with Kagi Search services.
+
+<!-- LOGO -->
+<h1>
+<p align="center">
+  <img src="./assets/icon.png" alt="Icon" width="128">
+  <br>Kagi for Alfred
+</h1>
+  <p align="center">
+    A powerful Alfred workflow to interact with Kagi Search services.
+    <br />
+    <a href="#features">Features</a>
+    ·
+    <a href="#commands">Commands</a>
+    ·
+    <a href="#configuration">Configuration</a>
+    ·
+    <a href="#support">Support</a>
+  </p>
+</p>
 
 ## Features
 
